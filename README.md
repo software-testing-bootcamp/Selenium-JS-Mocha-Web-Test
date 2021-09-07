@@ -1,5 +1,10 @@
 # Selenium-JS-Mocha-Web-Test
 
+**Youtube webinar:**  
+
+https://www.youtube.com/watch?v=7bUnm1J-ItA&t=272s
+
+
 **Requirements:**
 
 Download Selenium Grid JAR file -> https://www.selenium.dev/ 
