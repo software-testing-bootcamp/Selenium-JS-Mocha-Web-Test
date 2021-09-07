@@ -7,7 +7,10 @@ describe('SepeteEkleCikarTest', function() {
   let driver
   let vars
   beforeEach(async function() {
-    driver = await new Builder().forBrowser('chrome').usingServer('http://localhost:4444/wd/hub').build()
+    //ChromeDriver
+    driver = await new Builder().forBrowser('chrome').build()
+    //Selenium GRID -> selenium-server-4.0.0-beta-4.jar
+    //driver = await new Builder().forBrowser('chrome').usingServer('http://localhost:4444/wd/hub').build()
     vars = {}
   })
   afterEach(async function() {
