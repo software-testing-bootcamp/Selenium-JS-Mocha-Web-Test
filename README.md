@@ -1,5 +1,7 @@
 # Selenium-JS-Mocha-Web-Test
 
+"Software Testing Bootcamp" is a community of people interested in software testing. We record the weekly webinars that we organize and publish them on Youtube. For more information -> https://testingbootcamp.com/
+
 **Youtube webinar:**  
 
 https://www.youtube.com/watch?v=7bUnm1J-ItA&t=272s
