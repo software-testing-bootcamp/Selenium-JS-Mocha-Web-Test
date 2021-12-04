@@ -10,13 +10,13 @@ https://www.youtube.com/watch?v=7bUnm1J-ItA&t=272s
 
 **Requirements:**
 
-Download Selenium Grid JAR file -> https://www.selenium.dev/ 
+Download Selenium Grid JAR file -> https://www.selenium.dev/
 
-Install NodeJS -> https://nodejs.org/en/download/ 
+Install NodeJS -> https://nodejs.org/en/download/
 
-Install Mocha -> https://mochajs.org/#installation 
+Install Mocha -> https://mochajs.org/#installation
 
-Install ChromeDriver -> https://www.npmjs.com/package/chromedriver 
+Install ChromeDriver -> https://www.npmjs.com/package/chromedriver
 
 Downlaod VS Code -> https://code.visualstudio.com/
 
